@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "name":"Zenith Smoothie - Tiered Discounts",
+        "price":"$25.50 | $30",
+        "url":"../images/1.webp"
+    },
+    {
+        "id":2,
+        "name":"Crema coffee pod",
+        "price":"$30",
+        "url":"../images/2.webp"
+    },
+    {
+        "id":3,
+        "name":"Inner Loop Supplement- Auto-ship Sub...",
+        "price":"$13.50",
+        "url":"../images/3.webp"
+    },
+    {
+        "id":3,
+        "name":"Inner Loop Supplement- Auto-ship Sub...",
+        "price":"$13.50",
+        "url":"../images/3.webp"
+    }
+   
+   
+]

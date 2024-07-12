@@ -1,0 +1,23 @@
+.whole-nav{
+    position: fixed;
+    width: 100%;
+}
+.nav-contents {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 20px; 
+    
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  .navbar-collapse ul li a:hover{
+    text-decoration: underline;
+  }
+
